@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
