@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
