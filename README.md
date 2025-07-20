@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
+| [1031-add-to-array-form-of-integer](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
+| [1031-add-to-array-form-of-integer](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 ## Recursion
 |  |
 | ------- |
