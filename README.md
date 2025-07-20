@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
