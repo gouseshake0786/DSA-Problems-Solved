@@ -14,11 +14,8 @@ class Solution {
             }
             stack.push(ch);
         }
-
-        if(stack.isEmpty())
-            return true;
         
-        return false;
+        return stack.isEmpty();
     }
 
 }
