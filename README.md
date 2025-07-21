@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Recursion
 |  |
 | ------- |
