@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
+| [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
