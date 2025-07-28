@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
