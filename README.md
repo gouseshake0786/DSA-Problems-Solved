@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
 ## Simulation
