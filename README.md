@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
