@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
