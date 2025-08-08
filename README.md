@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0283-move-zeroes) |
