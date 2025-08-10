@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0169-majority-element) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -134,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
