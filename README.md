@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2048-build-array-from-permutation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
+| [2048-build-array-from-permutation](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/2048-build-array-from-permutation) |
 ## Backtracking
 |  |
 | ------- |
