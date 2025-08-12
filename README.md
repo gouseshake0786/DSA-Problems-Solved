@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
