@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0645-set-mismatch) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
