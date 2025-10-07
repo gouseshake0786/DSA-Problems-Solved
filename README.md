@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0392-is-subsequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/gouseshake0786/DSA-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
